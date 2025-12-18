@@ -21,6 +21,7 @@ The app aims to provide a personalized and user-friendly experience for finding 
 - Google Maps API
 
 ## 📂 Project Structure
+
 lib/
 ├── database/
 ├── models/
