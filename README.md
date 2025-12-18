@@ -21,7 +21,6 @@ The app aims to provide a personalized and user-friendly experience for finding 
 - Google Maps API
 
 ## 📂 Project Structure
-
 lib/
 ├── database/
 ├── models/
@@ -33,13 +32,13 @@ lib/
 
 ## ▶️ Getting Started
 1. Clone the repository
-https://github.com/alperen1126enya/Mekan_Bul.git
+   https://github.com/alperen1126enya/Mekan_Bul.git
 
 2. Install dependencies
-flutter pub get
+   flutter pub get
 
 3. Run the application
-flutter run
+   flutter run
 
 ## 📌 Purpose
 This project was developed to improve mobile application development skills using Flutter and to demonstrate a real-world application architecture.
